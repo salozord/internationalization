@@ -1,0 +1,19 @@
+{
+	"Position": "Position",
+	"Company": "Company",
+	"Salary": "Salary",
+	"City": "City",
+	"PublicationDate": "Publication date",
+	"Views": "Views",
+    "Million": "million",
+    "Millions": "millons",
+    "Manager" : "Manager",
+    "SoftwareEngineer" : "Software Engineer",
+    "Nurse" : "Nurse",
+    "SchneiderElectric": "Schneider Electric",
+    "GoogleInc": "Google Inc.",
+    "LaAuroraHospital": "La Aurora Hospital",
+    "PaloAlto": "Palo Alto, CA, USA",
+    "Bogota": "Bogota, Colombia",
+    "Cali": "Cali, Colombia"
+}
